@@ -1,2 +1,3 @@
 # iOS-Tip-Calculator-App
-This is the creation for this Github Repository for iOS Pre-work at CodePath Courses.
+This Github Repository for iOS Pre-work at CodePath Courses.
+Tip Calculator App.
