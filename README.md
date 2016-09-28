@@ -1,25 +1,55 @@
-# iOS-Tip-Calculator-App
+# Pre-work - *iOS-Tip-Calculator-App*
 
-Submitted by: Guanlong Zhou
+**Tip-Calculator-App** is a tip calculator application for iOS.
+
+Submitted by: **Guanlong(Mark) Zhou**
+
+Time spent in learning and building: **3** hours spent in total
+Swift v3.0
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] Settings page to change the default tip percentage.
+
+The following **optional** features are implemented:
+* [X] UI animations
+* [X] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- [X] Enter too big number will show alert notice and reset value.
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Due to the newew version of Swift, some codes in the tutorial on the web are out of date. Have to go through Apple's Swift website to learn UserDefaults part.
 Total learning process took about 3 hours.
-Swift v3.0 beta
+Swift v3.0 SDK.
 
-# iOS Pre-work: Tip Calculator App
-The following work are completed
-* [X] Setup Xcode
-* [X] Familiarize yourself with Swift
-* [X] Build the initial Tip Calculator
-* [X] Add a Settings Screen to the Tip Calculator
-* [X] Submit your app for review via GitHub
+## License
 
-# App Review Gif
-<img src="https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator.gif" />
+    Copyright [2016] [Guanlong(Mark) Zhou]
 
-# Submission Checklist
-Please review the following checklist to ensure your submission is valid:
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-* [X] Did you implement both the TipViewController and the SettingsViewController?
-* [X] Did you successfully push your code to github? Can you see the code on github?
-* [X] Did you successfully push your code to github? Can you see the code on github?
-* [X] Did you add a README.md to the repo on github which includes a GIF walkthrough of the app's functionality?
-* [X] Did you visit your application and submit using the pre-work form?
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
