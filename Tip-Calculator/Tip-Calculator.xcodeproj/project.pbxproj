@@ -14,6 +14,9 @@
 		165B94541D9A14E500E5C0E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 165B94521D9A14E500E5C0E6 /* LaunchScreen.storyboard */; };
 		165B945F1D9A14E500E5C0E6 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165B945E1D9A14E500E5C0E6 /* Tip_CalculatorTests.swift */; };
 		165B946A1D9A14E500E5C0E6 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165B94691D9A14E500E5C0E6 /* Tip_CalculatorUITests.swift */; };
+		165B947A1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165B94791D9B334E00E5C0E6 /* SettingsViewController.swift */; };
+		165B947B1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165B94791D9B334E00E5C0E6 /* SettingsViewController.swift */; };
+		165B947C1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 165B94791D9B334E00E5C0E6 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		165B94651D9A14E500E5C0E6 /* Tip-CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip-CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		165B94691D9A14E500E5C0E6 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		165B946B1D9A14E500E5C0E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		165B94791D9B334E00E5C0E6 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,7 @@
 			children = (
 				165B94491D9A14E500E5C0E6 /* AppDelegate.swift */,
 				165B944B1D9A14E500E5C0E6 /* ViewController.swift */,
+				165B94791D9B334E00E5C0E6 /* SettingsViewController.swift */,
 				165B944D1D9A14E500E5C0E6 /* Main.storyboard */,
 				165B94501D9A14E500E5C0E6 /* Assets.xcassets */,
 				165B94521D9A14E500E5C0E6 /* LaunchScreen.storyboard */,
@@ -261,6 +266,7 @@
 			files = (
 				165B944C1D9A14E500E5C0E6 /* ViewController.swift in Sources */,
 				165B944A1D9A14E500E5C0E6 /* AppDelegate.swift in Sources */,
+				165B947A1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				165B945F1D9A14E500E5C0E6 /* Tip_CalculatorTests.swift in Sources */,
+				165B947B1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				165B946A1D9A14E500E5C0E6 /* Tip_CalculatorUITests.swift in Sources */,
+				165B947C1D9B334E00E5C0E6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
