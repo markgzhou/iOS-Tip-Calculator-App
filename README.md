@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator2.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
-<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator3.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
+<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator3.gif' width='280' title='Video Walkthrough' alt='Video Walkthrough'/>
+<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator2.gif' width='280' title='Video Walkthrough' alt='Video Walkthrough'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
