@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Enter too big number will show alert notice and reset value.
+- [X] Entering too big number will show alert notice and reset value.
+- [X] Added use simple rates in settings. Configuration will change the main menu layout.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
 <img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator2.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
 <img src='https://github.com/mookerz/iOS-Tip-Calculator-App/blob/master/TipCalculator3.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
 
