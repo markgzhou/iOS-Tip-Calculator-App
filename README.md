@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Due to the newew version of Swift, some codes in the tutorial on the web are out of date. Have to go through Apple's Swift website to learn UserDefaults part.
+Due to the newer version of Swift, some codes in the tutorial on the web are out of date. Have to go through Apple's Swift website to learn UserDefaults part.
 Total learning process took about 3 hours.
 Swift v3.0 SDK.
 
